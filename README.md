@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hullo! 👋
+
+I am a Data Scientist working on interesting Machine Learning problems in Natural Language Processing 🙃
 
 <!--
 **VarunNatraaj/VarunNatraaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
