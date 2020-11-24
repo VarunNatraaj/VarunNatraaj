@@ -1,6 +1,6 @@
 ### Hullo! 👋
 
-I am a Data Scientist working on interesting Machine Learning problems in Natural Language Processing 🙃
+I work on interesting Machine Learning problems in Natural Language Processing 🙃
 
 🤓ML/DL for NLP
 
