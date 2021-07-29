@@ -1,14 +1,18 @@
 ### Hullo! 👋
 
-I work on interesting Machine Learning problems in Natural Language Processing 🙃
+Challenging Engineering problems and Machine Learning problems in Natural Language Processing intrigue me 🙃
 
-🤓ML/DL for NLP
+🤓  ML/DL for NLP
 
-🥁 Percussionist/Drummer
+🥁  Percussionist/Drummer
 
-⚽️ Footballer
+⚽️  Footballer
 
-📚 Bibliophilic
+📚  Bibliophilic
+
+🤘  Rush · Iron Maiden · Dream Theater
+
+🔱  MUFC
 
 <!--
 **VarunNatraaj/VarunNatraaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
